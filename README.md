@@ -1,8 +1,8 @@
 # demo
-this is git demo
+this is git demo &amp; Github classes
 
-#Learning
+# learning
 git learning
 
-#Student
+# Student
 delta student
